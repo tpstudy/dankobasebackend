@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "dankobasebackend",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c2c695c2-1397-452a-bc8a-0818e620d720",
+      "database_name": "dankobasebackend"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
